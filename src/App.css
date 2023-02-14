@@ -14,6 +14,10 @@ body {
     width: 0px;
   }
   
+.error-message {
+  font-size: 59px;
+}
+
   .right-arrow,
   .left-arrow {
     cursor: pointer;
