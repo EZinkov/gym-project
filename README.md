@@ -1,7 +1,7 @@
 
 
 
-![Alt text](https://api.apify.com/v2/key-value-stores/RTXc6nZhaBzb94PB4/records/grand-platypus-4d60a2.netlify.app-scroll_original)
+![Alt text](https://i.ibb.co/HBBwHQY/img1.png)
 
 # GYM EXERCISES
 
